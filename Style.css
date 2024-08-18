@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo {
+    width: 100px;
+}
+.nav-bar > ul{
+  font-size: 24px;
+  display: flex;
+  list-style-type: none;
+}
+.nav-bar > ul > li{
+    padding: 10px;
+    margin: 5px;
+}
+
+.Search{
+    padding: 10px;
+    font-size: 25px;
+}
+
+.res-container{
+    margin: 5px 40px;
+    padding: 5px 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card1{
+    padding: 2px;
+    margin: 10px;
+    width: 150px;
+}
+
+.card1:hover{
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.card1-logo{
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+}
+.RestCardLink{
+    color: black;
+    text-decoration: none;
+}
+.RestCardLink:visited{
+    color: rgb(103, 143, 92);
+}
+.Shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Shimmer-card{
+    margin: 20px;
+    width: 150px;
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+
+.authbtn{
+    padding: 2px 2px;
+    margin: 2px 4px 0 0;
+    background-color: lightcoral;
+    border: 0px ;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: bold;
+    /* background-color: #4a885d; 
+}
+
+.authbtn:hover{
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+.filter-btn{
+    background-color: rgb(221, 93, 29);
+    border-color: orange;
+    color: white;
+    margin: 10px;
+}
+.menuItemName{
+    font-weight: bold;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.user-avatar{
+    height: 50px;
+    width: 50px;
+}
+.status{
+    height: 1%;
+    border: 0.0001% solid;
+    border-radius: 50%;
+} */ 
